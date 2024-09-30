@@ -3,6 +3,7 @@ class test{
     int b=25;   
     public static void main(String[] args){
 	   int c=90;
-        System.out.println("hello world")
+           int d=a+b;
+	   System.out.println("hello world")
     }
 }
