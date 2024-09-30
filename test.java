@@ -4,5 +4,6 @@ class test{
     public static void main(String[] args){
 	   int c=90;
         System.out.println("hello world")
+	System.out.println("java");
     }
 }
