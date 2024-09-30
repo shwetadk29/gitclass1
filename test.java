@@ -5,5 +5,8 @@ class test{
 	   int c=90;
            int d=a+b;
 	   System.out.println("hello world")
+        System.out.println("hello world")
+	System.out.println("java");
+
     }
 }
